@@ -1,0 +1,2 @@
+class AddUserIdToApartment < ApplicationRecord
+end
